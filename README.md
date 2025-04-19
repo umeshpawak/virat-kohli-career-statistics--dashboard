@@ -7,7 +7,7 @@ This project showcases an interactive Power BI dashboard tracking the cricket ca
 
 ## 📊 Dashboard Preview
 
-![Virat Kohli Career Dashboard](https://github.com/umeshpawak/virat-kohli-career-statistics--dashboard/blob/main/virat%20bi%20dashborad.jpe)
+![Virat Kohli Career Dashboard](https://github.com/umeshpawak/virat-kohli-career-statistics--dashboard/blob/main/virat%20bi%20dashborad.jpeg)
 
 ## 📊 Dashboard Highlights
 
