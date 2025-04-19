@@ -54,7 +54,18 @@ This project showcases an interactive Power BI dashboard tracking the cricket ca
 
 ➡ You can filter by ODI, Test, and T20I for detailed stats.
 
+## project process 
 
+Collected career stats from public sources like ESPNcricinfo (manually entered into Excel).
 
+Cleaned the data in Power Query — fixed formats, removed blanks, and made sure columns were consistent.
+
+Built relationships between year, match format, and runs using a simple data model.
+
+Created DAX measures for KPIs like total runs, average, strike rate, and boundaries.
+
+Designed the dashboard layout with slicers for year and format, and added visuals for yearly performance and milestones.
+
+Tested filters & interactivity to make sure everything responds correctly.
 
 
