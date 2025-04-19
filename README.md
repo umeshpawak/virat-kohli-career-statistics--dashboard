@@ -4,19 +4,10 @@
 # objective 
 This project showcases an interactive Power BI dashboard tracking the cricket career of Virat Kohli from 2008 to 2023. It displays his performance across different formats (ODI, T20I, Test) using key metrics like total runs, average, strike rate, and boundaries.
 
----
 
 ## 📊 Dashboard Preview
 
-![Virat Kohli Career Dashboard](virat-kohli-full-dashboard.png)
+![Virat Kohli Career Dashboard](https://github.com/umeshpawak/virat-kohli-career-statistics--dashboard/blob/main/virat%20bi%20dashborad.jpeg)
 
----
 
-## 🔍 Objective
-
-To visually explore and analyze Virat Kohli's performance trends, helping fans, analysts, and cricket enthusiasts better understand his consistency and impact over time.
-
----
-
-## 📁 Project Structure
 
